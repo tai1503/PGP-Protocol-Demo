@@ -11,3 +11,5 @@
 - Tai sau khi nhận email:
     1. Sử dụng khóa bí mật của mình để giải mã email
     2. Sử dụng khóa công khai của Alice để xác nhận email có bị sửa đổi không.
+
+[Cấu hình và thử nghiệm kịch bản](./Config_and_Demo.md)
